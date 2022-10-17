@@ -9,3 +9,5 @@ After getting enough insight about the previous EDA project (link: https://lnkd.
 The initial test uses unbalanced original data, then the SMOTE oversampling technique is used to see if there is an increase in performance from machine learning.
 
 Data balanced by oversampling technique is proven to improve machine learning algorithm performance (though the increase is not so significant).
+
+Read more : 
